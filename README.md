@@ -20,7 +20,7 @@ Create a new Discord bot and obtain its token
    ```bash
    pip install -r requirements.txt
 
-2. Create a new file named .env and add your Discord bot token as DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
+2. Create a new file named .env or add your Discord bot token as DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
 
 3. Run the bot using 
    ```bash
